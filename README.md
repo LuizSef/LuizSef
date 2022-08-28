@@ -1,4 +1,4 @@
-<h1 align="center">Olá, Dev! 👋</h1>
+<h1 align="center">Olá, dev. Bem vindo! 👋</h1>
 
 ![Imagem minha em formato LoFi](https://user-images.githubusercontent.com/83620387/187056862-5692ede1-0add-416b-aa66-141686167148.png)
 
