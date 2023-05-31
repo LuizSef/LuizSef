@@ -3,7 +3,7 @@
 ![Imagem minha em formato LoFi](https://user-images.githubusercontent.com/83620387/187056862-5692ede1-0add-416b-aa66-141686167148.png)
 
 - 📚 Aluno de Engenharia da Computação pela Escola Politécnica da Universidade de Pernambuco.
-- 🔭 Atualmente estou a procura de oportunidades de estágio.
+- 🔭 Atualmente estagiário em Teste de Software no Projeto CIn/Motorola.
 - 🌱 Estou aprendendo Linguagem de Programação Funcional com Kotlin.
 - 🕹️ Nerd, amante de tecnologia (retrô e atual), jogos, filmes, séries, esportes, carros... e música 🎸
 - 🌌 Tenho o sonho de viajar o mundo e fazer a diferença na vida das pessoas.
