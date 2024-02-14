@@ -4,7 +4,7 @@
 
 - 📚 Aluno de Engenharia da Computação pela Escola Politécnica da Universidade de Pernambuco.
 - 🔭 Atualmente estagiário em Teste de Software no Projeto CIn/Motorola.
-- 🌱 Estou aprendendo Linguagem de Programação Funcional com Kotlin.
+- 🌱 Estou aprendendo Django.
 - 🕹️ Nerd, amante de tecnologia (retrô e atual), jogos, filmes, séries, esportes, carros... e música 🎸
 - 🌌 Tenho o sonho de viajar o mundo e fazer a diferença na vida das pessoas.
 
